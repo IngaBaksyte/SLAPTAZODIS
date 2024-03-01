@@ -1,0 +1,6 @@
+ManoSlaptazodis123@           Netinkamas. Trūksta 1 spec. simbolio(ų).
+asED15*+                      Netinkamas. Slaptažodis per trumpas. Trūksta 4 simbolio(ų).
+ALIGA156RT(^$)24ERQ           Netinkamas. Trūksta 2 mažosios(ųjų) raidės(ių).
+ALiGA156RT(^$)24ERQ           Netinkamas. Trūksta 1 mažosios(ųjų) raidės(ių).
+jgar984Baeit9js;gh            Netinkamas. Trūksta 1 didžiosios(ųjų) raidės(ių).
+ManoSlapt$azodis123@          Slaptažodis tinkamas.
